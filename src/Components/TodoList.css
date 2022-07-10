@@ -1,0 +1,31 @@
+.todoContainer {
+  background-color: plum;
+  height: 600px;
+}
+
+.todoHeader {
+  background-color: orange;
+  color: antiquewhite;
+  padding: 30px;
+}
+
+
+
+.inputSection {
+  padding: 15px 30px;
+}
+
+.inputSection > input {
+}
+
+
+
+.listContainer {
+  padding: 0 30px 15px 0;
+  display: flex;
+  width: 100%;
+}
+
+.holdText {
+    text-decoration: line-through;
+}
